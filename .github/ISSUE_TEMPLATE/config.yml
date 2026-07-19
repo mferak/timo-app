@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support & press inquiries
+    url: mailto:timo@loam.sk
+    about: For anything that isn't a bug report or feature idea.
+  - name: Timo website
+    url: https://trytimo.com
+    about: Learn more about Timo.
