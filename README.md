@@ -35,7 +35,7 @@ Timo shows the local time in the cities you care about, side by side, with the t
 
 Timo is completely free. No feature is gated behind a paywall. If you'd like to say thanks, there's an optional "Buy me a coffee" tip jar.
 
-A tip just hides a small in-app promo banner for [journeybot][https://github.com/mferak/journeybot-app] as a thank-you, nothing else changes.
+A tip just hides a small in-app promo banner for [journeybot](https://github.com/mferak/journeybot-app) as a thank-you, nothing else changes.
 
 ## Privacy, by design
 
