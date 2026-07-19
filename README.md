@@ -68,6 +68,6 @@ This repository doesn't hold Timo's source. It exists to track feedback from peo
 
 <div align="center">
 
-© 2026 Loam. Timo is a trademark of Loam. All rights reserved.
+© 2026 Michal Ferák. Timo is a trademark of Michal Ferák. All rights reserved.
 
 </div>
