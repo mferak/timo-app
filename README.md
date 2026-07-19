@@ -33,15 +33,9 @@ Timo shows the local time in the cities you care about, side by side, with the t
 
 ## Support Timo
 
-Timo is completely free. No feature is gated behind a paywall. If you'd like to say thanks, there's an optional "Buy me a coffee" tip jar with three tiers:
+Timo is completely free. No feature is gated behind a paywall. If you'd like to say thanks, there's an optional "Buy me a coffee" tip jar.
 
-| Tier | Price |
-|---|---|
-| Espresso | $0.99 |
-| Cappuccino | $2.99 |
-| Flat White | $3.99 |
-
-A tip just hides a small in-app promo banner for our other app as a thank-you, nothing else changes.
+A tip just hides a small in-app promo banner for [journeybot][https://github.com/mferak/journeybot-app] as a thank-you, nothing else changes.
 
 ## Privacy, by design
 
